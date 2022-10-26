@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+label , input , button {
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+div {
+    display: block;
+    border: 2px solid seagreen;
+    width: 800px;
+}

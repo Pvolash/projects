@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+}
+
+h1, p {
+    text-align: center;
+    padding: 3px;
+    margin: 15px;
+    color: gray;
+    font-size: 50px;
+}
+
+a { align-items: center;
+    padding: 3px;
+    margin: 15px;
+    font-size: xx-large;
+    color: lightcoral;
+    text-decoration: none;
+}
+
+a:hover {
+    
+    color:black;
+    
+}

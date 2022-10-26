@@ -1,0 +1,122 @@
+.AnaBa {
+  text-align: center;
+  padding: 20px;
+  background-color: lightslategray;
+  scroll-behavior: smooth;
+}
+
+
+.UTSL {
+  background-color: #56A3A6;
+  float: left;
+  padding: 20px;
+}
+
+.SPvTW {
+  background-color: #DB504A;
+  padding: 20px;
+  float: left;
+} 
+.WBULSP {
+  background-color:#E3B505;
+  padding: 20px;
+  float: left;
+} 
+
+.Bub {
+  background-color:#4F6D7A;
+  padding: 20px;
+  margin: auto;
+  float: left;
+}
+
+.aSV {
+  background-color:#084C61 ;
+  padding: 20px;
+  float: left;
+}
+
+
+
+
+
+.SL {
+  padding: 20px;
+  
+}
+img {
+  float: left;
+  border: black solid 2px;
+  border-radius: 7%;
+  
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+.BK {
+  float: left;
+  padding: 20px;
+  margin:auto;
+}
+
+.Com {
+  width: 400px;
+  height: 50px;
+  background-color: transparent;
+  border: 3px solid purple;
+}
+
+body {
+  background-color: lightslategray;
+}
+p {
+  margin: 30px;
+  padding: 20px;
+  
+}
+h1 {
+  color: plum ;
+}
+.he1 {
+  color: plum;
+}
+pre {
+  color: purple;
+  font-size: 24px ;
+  font-style: italic;
+}
+
+/**Nav Bar**/
+ul li {
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+  text-decoration: none;
+  float: left;
+  font-size: 25px;
+}
+
+.NavBar  {
+  overflow: hidden;
+  background-color: #084C61;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none ;
+  
+}
+a {
+  text-decoration: none;
+  color: #E3B505;
+}
+a:hover {
+  background-color: #E3B505;
+  color: #084C61;
+}
+
+
+
+
+

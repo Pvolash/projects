@@ -1,0 +1,7 @@
+data=[
+    {question: "Annenle ne kadar yakınız", answers: {a: "En çok", b: "Daha çok", c: "Daha daha çok", d: "hiç"}, correctAnswer: "a"},
+    {question: "Gerçekten soru yazmakla uğraşacağımı mı sandın?", answers: {a: "hayır", b: "evet", c: "belki", d: "noluyo"}, correctAnswer: "b"},
+    {question: "Sence bu quizden kaç alırsın?", answers: {a: "Eğer benim fikrimi soruyorsan...", b: "hayır", c: "annen", d: "?"}, correctAnswer: "c"},
+    {question: "d?", answers: {a: "a", b: "b", c: "c", d: "d"}, correctAnswer: "d"},
+    {question: "Bitti mi sonunda ?", answers: {a: "evet", b: "nani", c: "yes", d: "daha çok dil öğrenmelisin"}, correctAnswer: "c"},
+]
